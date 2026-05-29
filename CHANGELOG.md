@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [5.2.2](https://github.com/terraform-aws-modules/terraform-aws-sqs/compare/v5.2.1...v5.2.2) (2026-05-29)
+
+### Bug Fixes
+
+* Replace deprecated partition `id` attribute with `partition` ([#85](https://github.com/terraform-aws-modules/terraform-aws-sqs/issues/85)) ([44e8bdc](https://github.com/terraform-aws-modules/terraform-aws-sqs/commit/44e8bdc28f349dad60a6702fb8bcad3271df41c6))
+
 ## [5.2.1](https://github.com/terraform-aws-modules/terraform-aws-sqs/compare/v5.2.0...v5.2.1) (2026-01-21)
 
 ### Bug Fixes
